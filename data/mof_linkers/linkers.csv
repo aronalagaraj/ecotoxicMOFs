@@ -1,0 +1,11 @@
+﻿MOF,Metal,Organic Linker,Canonical SMILES
+UiO-66,Zr,"1,4-Benzenedicarboxylate",C1=CC(=CC=C1C(=O)O)C(=O)O
+HKUST-1,Cu,"1,3,5-Benzimidazole",C1=CC=C2C(=C1)NC=N2
+MIL-101,Cr,Terephthalic acid,C1=CC(=CC=C1C(=O)O)C(=O)O
+MIL-68,Al,Terephthalic acid,C1=CC(=CC=C1C(=O)O)C(=O)O
+ZIF-8,Zn,2-Methylimidazole,CC1=NC=CN1
+ZIF-67,Co,2-Methylimidazole,CC1=NC=CN1
+ZIF-300,Zn,5 (6)-Bromobenzimidazole,C1=CC2=C(C=C1Br)NC=N2
+Zr-MSA,Zr,MSA,C(C(C(=O)O)S)C(=O)O
+Zr-DMBD,Zr,"2,5-dimercapto-1,4-benzenedicarboxylic",C1=C(C(=CC(=C1S)C(=O)O)S)C(=O)O
+FJI-H9,Ca,"2,5-thiophenedicarboxylate",C1=C(SC(=C1)C(=O)O)C(=O)O
