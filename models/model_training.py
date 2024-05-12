@@ -153,4 +153,4 @@ def run_model(model, threshold):
     print(f'Test Accuracy score: {test_acc:.2f}')
     print(f'Test Recall score: {test_rec:.2f}')
 
-    return model
+    return model, X_train, X_val, X_test, y_train, y_val, y_test, selector
